@@ -1,1 +1,1 @@
-# Blog Prototype Template in Bootstrap 5
+# Blog Prototype Template in Tailwind CSS
